@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tinder</string>
+    <string name="facebook_app_id">569279677516757</string>
+    <string name="fb_login_protocol_scheme">fb569279677516757</string>
+</resources>
